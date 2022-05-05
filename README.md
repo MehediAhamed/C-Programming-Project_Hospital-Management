@@ -1,1 +1,1 @@
-# C-Programming-Project_Hospital-Management
+Compile only main.c to run. Enter Password :HappyCoding
